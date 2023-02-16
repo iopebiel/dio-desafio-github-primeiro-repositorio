@@ -1,2 +1,4 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre github
+# Desafio de Projeto sobre github.
+Primeiro repositório.
+
+Acompanhamento de conclusão do bootcamp.

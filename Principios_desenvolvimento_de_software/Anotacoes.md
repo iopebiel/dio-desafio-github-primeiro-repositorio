@@ -1,4 +1,4 @@
-##2. Desenvolvimento de Software
+## 2. Desenvolvimento de Software
 
 - [x] Introdução à programação e Pensamento Computacional.
 - [x] Introdução ao Git e ao Github.
