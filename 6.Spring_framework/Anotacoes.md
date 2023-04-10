@@ -5,3 +5,5 @@
 - [ ] Imersão no Spring Framework com Spring Boot
 - [ ] Criação de uma API REST documentada com spring Web e Swagger
 - [ ] Padrões de Projetos na prática com java
+
+Em andamento...

@@ -1,7 +1,9 @@
 ## 4. Desafios de códigos com Java
 
-- [ ] Mesada do sobrinho
-- [ ] Download de Pacotes
-- [ ] Leitura da Gertrudes
-- [ ] Lojinha de Dices
-- [ ] Industria de Multa
+- [x] Mesada do sobrinho
+- [x] Download de Pacotes
+- [x] Leitura da Gertrudes
+- [x] Lojinha de Dices
+- [x] Industria de Multa
+
+Concluído.

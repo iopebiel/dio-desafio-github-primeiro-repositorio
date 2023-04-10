@@ -1,7 +1,9 @@
 ## Fortalecimento na Carreira
 
-- [ ] LinkedIn mais atrativo
-- [ ] Melhorar currículo na DIO
-- [ ] Trabalho em equipes Ágeis
+- [x] LinkedIn mais atrativo
+- [x] Melhorar currículo na DIO
+- [x] Trabalho em equipes Ágeis
 - [ ] Transformação conhecimento em Artigos Técnicos
-- [ ] Se preparando para uma entrevista
+- [x] Se preparando para uma entrevista
+
+Terminando...
